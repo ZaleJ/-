@@ -1,2 +1,2 @@
 # -
-A Pygame game.
+A Python game made by Pygame.
